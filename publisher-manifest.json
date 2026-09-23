@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "655ceed0a3c5f4d886b4b424",
+  "owner": "x7wmu5dqa",
+  "repo": "page-aba891f3d33232f6e081a225",
+  "title": "TOTYUN机场(TOTYUN)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "aba891f3d33232f6e081a225",
+      "a": "TOTYUN机场(TOTYUN)",
+      "b": "2027官方最新地址导航",
+      "entity": "TOTYUN机场(TOTYUN)",
+      "brand": "TOTYUN机场(TOTYUN)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "5bb272fbac0ac93deb511676c685872fe372f86bbd2dd2859cdf31d6edafc6bc",
+      "content": {
+        "primary_entity": "TOTYUN机场(TOTYUN)",
+        "keyword1": "TOTYUN机场(TOTYUN)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "TOTYUN 支持主流客户端的订阅导入与配置，按设备系统选择对应客户端即可。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选择适合的套餐并导入订阅，即可开始 TOTYUN 加速体验。",
+          "AI_CLOSING_TITLE": "开启 TOTYUN 加速",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版、团队版三档套餐，分别对应不同流量与设备数量，适合从个人到团队的多场景使用。客户端覆盖桌面与移动系统，订阅配置方式统一，按设备文档完成导入即可。",
+          "AI_FEATURES_INTRO": "TOTYUN 从套餐选择、设备需求与订阅周期三个方向，帮助快速上手。",
+          "AI_FEATURES_TITLE": "核心使用特点",
+          "AI_FEATURE_TEXT_1": "基础版月付 ¥15、年付 ¥150，含 100GB 流量与 3 台设备在线，适合日常浏览与轻量使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版月付 ¥35、年付 ¥350，含 300GB 流量与 5 台设备在线，提供 IPLC 专线与流媒体解锁优化。",
+          "AI_FEATURE_TEXT_3": "团队版月付 ¥85、年付 ¥850，含 1000GB 流量与 20 台设备在线，支持企业定制路由与专属客户经理。",
+          "AI_FEATURE_TITLE_1": "套餐选择灵活",
+          "AI_FEATURE_TITLE_2": "设备覆盖广",
+          "AI_FEATURE_TITLE_3": "订阅周期可选",
+          "AI_GUIDE_INTRO": "先选套餐，再看设备适配，最后按客户端文档完成订阅配置。",
+          "AI_GUIDE_TITLE": "快速使用步骤",
+          "AI_HERO_INTRO": "TOTYUN 提供多档海外加速套餐，覆盖基础到团队使用场景，支持主流客户端订阅导入，按设备选择合适方案即可快速配置。",
+          "AI_HERO_SUBTITLE": "多档套餐，按设备灵活选配",
+          "AI_HIGHLIGHT_1": "三档套餐满足个人与团队",
+          "AI_HIGHLIGHT_2": "订阅导入支持主流客户端",
+          "AI_HIGHLIGHT_3": "按设备数量选合适方案",
+          "AI_PLANS_INTRO": "基础版月付 ¥15、年付 ¥150；旗舰版月付 ¥35、年付 ¥350；团队版月付 ¥85、年付 ¥850。流量与在线设备数随版本递增，按实际需求对比选择。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "根据流量需求与在线设备数量，从基础版、旗舰版、团队版中挑选合适套餐。",
+          "AI_STEP_TEXT_2": "查看所用设备系统是否有对应的客户端，确认订阅导入方式与配置要求。",
+          "AI_STEP_TEXT_3": "依照客户端文档导入订阅信息，完成配置后即可使用 TOTYUN 加速服务。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅信息",
+          "AI_VISUAL_TITLE": "TOTYUN 多端加速方案",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "TOTYUN机场的订阅链接如何导入客户端？",
+          "AI_FAQ_ANSWER_1": "登录后获取订阅链接，在客户端中选择从订阅导入或粘贴链接，更新节点列表即可开始使用。",
+          "AI_FAQ_QUESTION_2": "不同套餐的设备数量限制分别是多少？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。超出数量需升级套餐。",
+          "AI_FAQ_QUESTION_3": "年付套餐相比月付能节省多少费用？",
+          "AI_FAQ_ANSWER_3": "基础版年付150元比月付省30元，旗舰版年付350元省70元，团队版年付850元省170元。",
+          "AI_FAQ_QUESTION_4": "旗舰版的IPLC专线适合哪些场景？",
+          "AI_FAQ_ANSWER_4": "旗舰版IPLC专线针对游戏加速优化，降低延迟与抖动，适合实时对战与低延迟要求的应用。",
+          "AI_FAQ_QUESTION_5": "团队版能否为企业定制路由？",
+          "AI_FAQ_ANSWER_5": "团队版支持企业定制路由，并提供VIP专属高带宽节点与专属客户经理服务。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "hlgiftshop.com",
+    "host": "hlgiftshop.com"
+  },
+  "file_hashes": {
+    "index.html": "be6e59a855394a3056b8c9caaf197121df7b54ac2b6965b1295b685e8aa4c39b",
+    "sitemap.xml": "36560be40cf1131ee8c396da6c7b516ebb159279599a2946b7bfc96fc50cc701",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "de4804f54c8091df81bb7a42e88174298277c61ba640d1967a98cb28578ddbe9",
+    "robots.txt": "676c16296741dffa463677b25f92f8007d6fe3d25e07d27e6fd337a3e6a78f73",
+    "2fe2b5f1666041733e283cbcb6a02159.txt": "c815c4302c226dfd116a70a25079ff7f758dd9c6c28668a6045f368de8af5b66"
+  },
+  "revision": "8d4096294fef1dd6bc64881010054981931621ecd59e041d39f0dfb54a9b8e3c"
+}
